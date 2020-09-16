@@ -1,0 +1,59 @@
+{
+  "vin": "3MW5R1J51K8B02473",
+  "mileage": 10440,
+  "updateReason": "DOOR_STATE_CHANGED",
+  "updateTime": "2020-07-01T03:49:29+0000",
+  "doorDriverFront": "CLOSED",
+  "doorDriverRear": "CLOSED",
+  "doorPassengerFront": "CLOSED",
+  "doorPassengerRear": "CLOSED",
+  "windowDriverFront": "CLOSED",
+  "windowDriverRear": "CLOSED",
+  "windowPassengerFront": "CLOSED",
+  "windowPassengerRear": "CLOSED",
+  "sunroof": "CLOSED",
+  "trunk": "CLOSED",
+  "rearWindow": "INVALID",
+  "hood": "CLOSED",
+  "doorLockState": "SECURED",
+  "parkingLight": "OFF",
+  "positionLight": "OFF",
+  "remainingFuel": 38,
+  "remainingRangeFuel": 568,
+  "remainingRangeFuelMls": 352,
+  "fuelPercent": 75.5,
+  "position": {
+      "lat": 35.849976,
+      "lon": -78.891335,
+      "heading": 69,
+      "status": "OK"
+  },
+  "internalDataTimeUTC": "2020-06-29T03:49:29",
+  "singleImmediateCharging": false,
+  "vehicleCountry": "US",
+  "checkControlMessages": [],
+  "cbsData": [
+      {
+          "cbsType": "OIL",
+          "cbsState": "OK",
+          "cbsRemainingMileage": 14480,
+          "cbsDueDate": "2021-06",
+          "cbsDescription": "Next service due when the stated distance has been covered or by the specified date."
+      },
+      {
+          "cbsType": "BRAKE_FLUID",
+          "cbsState": "OK",
+          "cbsDueDate": "2022-07",
+          "cbsDescription": "Next change due at the latest by the stated date."
+      },
+      {
+          "cbsType": "VEHICLE_CHECK",
+          "cbsState": "OK",
+          "cbsRemainingMileage": 45060,
+          "cbsDueDate": "2023-06",
+          "cbsDescription": "Next visual inspection due when the stated distance has been covered or by the stated date."
+      }
+  ],
+  "DCS_CCH_Activation": "NA",
+  "DCS_CCH_Ongoing": false
+}
